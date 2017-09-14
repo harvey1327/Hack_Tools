@@ -2,7 +2,7 @@
 
 import requests
 
-#token_array = [{'user_id': 1, 'token': 'JhjqCzT79ofx94SxL6rn'},{'user_id': 2, 'token': '7Dsk5VR6xD_goeKcxFps'},{'user_id': 3, 'token': 'EmSLzXwfKddc2y28pcxW'}, {'user_id': 4, 'token': 'yBETvpQLH7UkAmXbdGo-'}]
+#token_array = [{'user_id': 1, 'token': 'JhjqCzT79ofx94SxL6rn', 'user_name':'admin'},{'user_id': 2, 'token': '7Dsk5VR6xD_goeKcxFps', 'user_name':'balh'},{'user_id': 3, 'token': 'EmSLzXwfKddc2y28pcxW', 'user_name':'test1'}, {'user_id': 4, 'token': 'yBETvpQLH7UkAmXbdGo-', 'user_name':'user4'}]
 
 token_array = [{'user_id': 2, 'token': '7Dsk5VR6xD_goeKcxFps', 'user_name':'balh'},{'user_id': 3, 'token': 'EmSLzXwfKddc2y28pcxW', 'user_name':'test1'}, {'user_id': 4, 'token': 'yBETvpQLH7UkAmXbdGo-', 'user_name':'user4'}]
 
